@@ -16,5 +16,5 @@ Mark Down file basics
 
 ```
 code block!!!
-same as in Slack?
+same as in Slack!
 ```
